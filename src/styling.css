@@ -1,0 +1,79 @@
+body {
+  font-family: "jetbrains mono", Courier, monospace;
+}
+p {
+  padding-left: 20px;
+  font-weight: 900;
+}
+p small {
+  font-weight: 100;
+}
+ul {
+  list-style-type: none;
+  text-align: left;
+  padding: 5px 0;
+  margin: 0 0 0;
+  font-size: 12px;
+  font-weight: 100;
+}
+.currentTemp {
+  display: block;
+  padding: 25px;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 900;
+  color: rgb(5, 120, 128);
+}
+.header {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.surroundingBox {
+  padding: 25px;
+  display: block;
+  margin: 25px auto;
+  width: 580px;
+  height: 600px;
+  border: 2px solid black;
+}
+
+.weather-icon {
+  font-size: 100px;
+  color: rgb(5, 120, 128);
+}
+
+div.two div.col {
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 2px;
+  font-weight: 900;
+  font-size: 17px;
+}
+
+#navbar {
+  padding: 5px;
+  display: block;
+  margin: 0 auto 10px;
+  width: 97%;
+  border: 2px solid black;
+  border-radius: 30px;
+  font-size: 12px;
+}
+
+.dia-uno {
+  color: rgb(5, 120, 128);
+}
+.dia-dos {
+  color: rgb(5, 120, 128);
+}
+.dia-tres {
+  color: rgb(212, 204, 60);
+}
+.dia-cuatro {
+  color: rgb(212, 204, 60);
+}
+.dia-cinco {
+  color: rgba(44, 178, 86, 0.8);
+}
